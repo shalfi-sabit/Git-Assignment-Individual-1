@@ -10,3 +10,7 @@
 # Extend previoius programming problem from "main" branch line 1
 # Extend previoius programming problem from "main" branch line 2
 # Extend previoius programming problem from "main" branch line 3
+
+# Critical fix by feature branch line 1
+# Critical fix by feature branch line 2
+# Critical fix by feature branch line 3
