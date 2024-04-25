@@ -8,3 +8,8 @@
 # Critical fix by feature branch line 1
 # Critical fix by feature branch line 2
 # Critical fix by feature branch line 3
+
+
+# Find the nth prime number by "feature-branch" line 1
+# Find the nth prime number by "feature-branch" line 2
+# Find the nth prime number by "feature-branch" line 3
